@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CountryData
+comment1.params=incomeData\ country\ year
+comment1.target=CountryData(StudentData,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=int\ totalIncome()
+comment11.params=
+comment11.target=double\ giniIndex()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=
+comment4.target=int\ getPopulation()
+comment5.params=
+comment5.target=int[]\ getIncomeDeciles()
+comment6.params=n
+comment6.target=void\ setName(java.lang.String)
+comment7.params=y
+comment7.target=void\ setYear(int)
+comment8.params=p
+comment8.target=void\ setPopulation(int)
+comment9.params=i
+comment9.target=void\ setIncomeDeciles(int[])
+numComments=12
