@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PongBallTimer
+comment1.params=ball\ canvas\ paddle1\ paddle2\ player1\ player2
+comment1.target=PongBallTimer(PongBall,\ PongCanvas,\ PongPaddle,\ PongPaddle,\ PongScore,\ PongScore)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

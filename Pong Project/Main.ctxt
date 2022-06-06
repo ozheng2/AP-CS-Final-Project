@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=width\ height
+comment1.target=Main(int,\ int)
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ show()
+comment3.text=\r\n\ Display\ this\ PongTable\ on\ the\ screen.\r\n
+comment4.params=
+comment4.target=void\ hide()
+comment4.text=\r\n\ Hide\ this\ PongTable\ from\ view.\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

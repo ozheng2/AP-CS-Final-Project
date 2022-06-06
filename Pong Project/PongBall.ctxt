@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PongBall
+comment1.params=initX\ initY\ initXVel\ initYVel
+comment1.target=PongBall(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ bounceX()
+comment3.params=
+comment3.target=void\ bounceY()
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=void\ move()
+numComments=7

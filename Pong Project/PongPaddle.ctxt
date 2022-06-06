@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PongPaddle
+comment1.params=top\ left\ w\ h
+comment1.target=PongPaddle(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getBottomY()
+comment3.params=
+comment3.target=int\ getLeftX()
+comment4.params=
+comment4.target=int\ getRightX()
+comment5.params=
+comment5.target=int\ getTopY()
+comment6.params=d
+comment6.target=void\ moveDown(int)
+comment7.params=d
+comment7.target=void\ moveUp(int)
+numComments=8

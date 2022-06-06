@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PongScore
+comment1.params=
+comment1.target=PongScore()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=points
+comment3.target=void\ scorePoints(int)
+numComments=4
